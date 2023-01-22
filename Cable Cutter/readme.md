@@ -6,3 +6,6 @@ sch: https://www.youtube.com/results?search_query=bicycle+cable+tool
 
 ## index
 - [Calvin's Quick Cutting Conversation | Tech Tuesday #148](https://youtu.be/Y0d55cD_QNw)
+
+# test:
+[TOOL GAUNTLET #1: Cable Cutter Showdown](https://youtu.be/pRe9N1tSH_M)
